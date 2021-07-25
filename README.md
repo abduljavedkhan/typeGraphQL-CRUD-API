@@ -1,6 +1,6 @@
 # typeGraphQL-CRUD-API
 
-[TypeGraphQL](https://typegraphql.com/) 
+What is [TypeGraphQL](https://typegraphql.com/) ?
 
 ## Steps to run the project
 ```
