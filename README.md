@@ -1,5 +1,7 @@
 # typeGraphQL-CRUD-API
 
+[TypeGraphQL](https://typegraphql.com/) 
+
 ## Steps to run the project
 ```
 - Clone the repository
