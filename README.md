@@ -1,4 +1,4 @@
-# typeGraphQL-CRUD-API(in-progress)
+# TypeGraphQL-CRUD-API(in-progress)
 
 What is [TypeGraphQL](https://typegraphql.com/) ?
 
